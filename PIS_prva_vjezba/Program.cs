@@ -8,6 +8,7 @@ namespace PIS_prva_vjezba
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Uređeno");
         }
     }
 }
