@@ -7,7 +7,7 @@ namespace PIS_prva_vjezba
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("proba");
+            Console.WriteLine("Novo");
         }
     }
 }
