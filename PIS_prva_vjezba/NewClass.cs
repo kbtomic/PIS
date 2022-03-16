@@ -6,5 +6,9 @@ namespace PIS_prva_vjezba
 {
     class NewClass
     {
+        public NewClass()
+        {
+
+        }
     }
 }
