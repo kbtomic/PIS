@@ -6,5 +6,6 @@ namespace PIS_prva_vjezba
 {
     class NewClass
     {
+        Console.WriteLine("");
     }
 }
